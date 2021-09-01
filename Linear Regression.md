@@ -12,3 +12,5 @@ Y= aX+b
 Here, Y = dependent variables (target variables),
 X= Independent variables (predictor variables),
 a and b are the linear coefficients
+
+
